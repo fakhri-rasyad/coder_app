@@ -1,0 +1,72 @@
+[
+  {
+    "name": "John Doe",
+    "email": "johndoe@example.com",
+    "subject": "Meeting Agenda",
+    "overview": "Please find attached the agenda for our upcoming meeting.",
+    "full_mail": "Dear team, Attached is the agenda for our meeting scheduled for next week. Please review it in advance. Regards, John"
+  },
+  {
+    "name": "Alice Smith",
+    "email": "alice.smith@example.com",
+    "subject": "Project Update",
+    "overview": "Here's the latest update on the project's progress.",
+    "full_mail": "Hi team, I wanted to share the latest project update with you. We've made significant progress in the last week. Please see the attached document for details. Regards, Alice"
+  },
+  {
+    "name": "Robert Johnson",
+    "email": "r.johnson@example.com",
+    "subject": "Invitation to Dinner",
+    "overview": "You're invited to a dinner party at my place this weekend.",
+    "full_mail": "Hello friends, I hope you're all doing well. I'd like to invite you to a dinner party at my place this Saturday. Please RSVP by Thursday. Looking forward to seeing you all. Best regards, Robert"
+  },
+  {
+    "name": "Mary Brown",
+    "email": "mary.brown@example.com",
+    "subject": "Vacation Photos",
+    "overview": "I've just returned from my vacation and wanted to share some photos.",
+    "full_mail": "Hi everyone, I hope you're doing great. I recently came back from my vacation, and I wanted to share some photos with you. Check out the attached file for the highlights. Best regards, Mary"
+  },
+  {
+    "name": "David Lee",
+    "email": "david.lee@example.com",
+    "subject": "Important Announcement",
+    "overview": "Please read this important announcement regarding upcoming changes.",
+    "full_mail": "Dear team, I wanted to inform you about some important changes happening in our department. Please read the attached memo for details. Regards, David"
+  },
+  {
+    "name": "Sarah Williams",
+    "email": "sarah.w@example.com",
+    "subject": "Weekly Newsletter",
+    "overview": "Here's the latest edition of our weekly newsletter.",
+    "full_mail": "Hello everyone, I'm pleased to share the latest edition of our weekly newsletter. It contains updates on recent projects and upcoming events. Enjoy the read! Best regards, Sarah"
+  },
+  {
+    "name": "Michael Evans",
+    "email": "m.evans@example.com",
+    "subject": "Job Opportunity",
+    "overview": "Exciting job opportunity at our company. Please share with your network.",
+    "full_mail": "Hi there, We have an exciting job opportunity at our company and would appreciate it if you could share it with your network. Check out the attached job description for more information. Regards, Michael"
+  },
+  {
+    "name": "Linda Miller",
+    "email": "linda.m@example.com",
+    "subject": "Birthday Party Invitation",
+    "overview": "You're invited to celebrate my birthday this Saturday!",
+    "full_mail": "Hey friends, My birthday is coming up, and I'd love for you to join me in celebrating this Saturday. Please let me know if you can make it. Looking forward to seeing you there! Best wishes, Linda"
+  },
+  {
+    "name": "James Clark",
+    "email": "james.c@example.com",
+    "subject": "Product Launch Announcement",
+    "overview": "Exciting news! We're launching a new product next week.",
+    "full_mail": "Hello, We have some exciting news to share. We're launching a new product next week, and we can't wait to show it to you. Stay tuned for more details! Regards, James"
+  },
+  {
+    "name": "Emily Taylor",
+    "email": "emily.t@example.com",
+    "subject": "Thank You Note",
+    "overview": "A heartfelt thank you for your support and friendship.",
+    "full_mail": "Dear friends, I just wanted to take a moment to express my gratitude for your support and friendship. Thank you for always being there for me. With warm regards, Emily"
+  }
+]
