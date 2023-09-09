@@ -3,6 +3,8 @@
     "name": "John Doe",
     "email": "johndoe@example.com",
     "subject": "Meeting Agenda",
+    "day": 1,
+    "month": "September",
     "overview": "Please find attached the agenda for our upcoming meeting.",
     "full_mail": "Dear team, Attached is the agenda for our meeting scheduled for next week. Please review it in advance. Regards, John"
   },
@@ -10,6 +12,8 @@
     "name": "Alice Smith",
     "email": "alice.smith@example.com",
     "subject": "Project Update",
+    "day": 30,
+    "month": "August",
     "overview": "Here's the latest update on the project's progress.",
     "full_mail": "Hi team, I wanted to share the latest project update with you. We've made significant progress in the last week. Please see the attached document for details. Regards, Alice"
   },
@@ -17,6 +21,8 @@
     "name": "Robert Johnson",
     "email": "r.johnson@example.com",
     "subject": "Invitation to Dinner",
+    "day": 27,
+    "month": "August",
     "overview": "You're invited to a dinner party at my place this weekend.",
     "full_mail": "Hello friends, I hope you're all doing well. I'd like to invite you to a dinner party at my place this Saturday. Please RSVP by Thursday. Looking forward to seeing you all. Best regards, Robert"
   },
@@ -24,6 +30,8 @@
     "name": "Mary Brown",
     "email": "mary.brown@example.com",
     "subject": "Vacation Photos",
+    "day": 25,
+    "month": "August",
     "overview": "I've just returned from my vacation and wanted to share some photos.",
     "full_mail": "Hi everyone, I hope you're doing great. I recently came back from my vacation, and I wanted to share some photos with you. Check out the attached file for the highlights. Best regards, Mary"
   },
@@ -31,6 +39,8 @@
     "name": "David Lee",
     "email": "david.lee@example.com",
     "subject": "Important Announcement",
+    "day": 24,
+    "month": "August",
     "overview": "Please read this important announcement regarding upcoming changes.",
     "full_mail": "Dear team, I wanted to inform you about some important changes happening in our department. Please read the attached memo for details. Regards, David"
   },
@@ -38,6 +48,8 @@
     "name": "Sarah Williams",
     "email": "sarah.w@example.com",
     "subject": "Weekly Newsletter",
+    "day": 22,
+    "month": "August",
     "overview": "Here's the latest edition of our weekly newsletter.",
     "full_mail": "Hello everyone, I'm pleased to share the latest edition of our weekly newsletter. It contains updates on recent projects and upcoming events. Enjoy the read! Best regards, Sarah"
   },
@@ -45,6 +57,8 @@
     "name": "Michael Evans",
     "email": "m.evans@example.com",
     "subject": "Job Opportunity",
+    "day": 20,
+    "month": "August",
     "overview": "Exciting job opportunity at our company. Please share with your network.",
     "full_mail": "Hi there, We have an exciting job opportunity at our company and would appreciate it if you could share it with your network. Check out the attached job description for more information. Regards, Michael"
   },
@@ -52,6 +66,8 @@
     "name": "Linda Miller",
     "email": "linda.m@example.com",
     "subject": "Birthday Party Invitation",
+    "day": 18,
+    "month": "August",
     "overview": "You're invited to celebrate my birthday this Saturday!",
     "full_mail": "Hey friends, My birthday is coming up, and I'd love for you to join me in celebrating this Saturday. Please let me know if you can make it. Looking forward to seeing you there! Best wishes, Linda"
   },
@@ -59,6 +75,8 @@
     "name": "James Clark",
     "email": "james.c@example.com",
     "subject": "Product Launch Announcement",
+    "day": 16,
+    "month": "August",
     "overview": "Exciting news! We're launching a new product next week.",
     "full_mail": "Hello, We have some exciting news to share. We're launching a new product next week, and we can't wait to show it to you. Stay tuned for more details! Regards, James"
   },
@@ -66,7 +84,81 @@
     "name": "Emily Taylor",
     "email": "emily.t@example.com",
     "subject": "Thank You Note",
+    "day": 14,
+    "month": "August",
     "overview": "A heartfelt thank you for your support and friendship.",
     "full_mail": "Dear friends, I just wanted to take a moment to express my gratitude for your support and friendship. Thank you for always being there for me. With warm regards, Emily"
+  },
+  {
+    "name": "Sophia White",
+    "email": "sophia.white@example.com",
+    "subject": "New Website Launch",
+    "day": 12,
+    "month": "August",
+    "overview": "We're excited to announce the launch of our new website!",
+    "full_mail": "Hello everyone, We're thrilled to announce the launch of our brand-new website. Take a look and let us know what you think. Regards, Sophia"
+  },
+  {
+    "name": "Daniel Garcia",
+    "email": "daniel.garcia@example.com",
+    "subject": "Upcoming Team Building Event",
+    "day": 10,
+    "month": "August",
+    "overview": "Get ready for an exciting team-building event next month.",
+    "full_mail": "Hi team, We have an exciting team-building event planned for next month. Stay tuned for more details. Regards, Daniel"
+  },
+  {
+    "name": "Olivia Martin",
+    "email": "olivia.martin@example.com",
+    "subject": "Client Meeting Recap",
+    "day": 8,
+    "month": "August",
+    "overview": "Here's a recap of our recent client meeting for your reference.",
+    "full_mail": "Dear team, I've prepared a recap of our recent client meeting for your reference. Please review the attached document. Best regards, Olivia"
+  },
+  {
+    "name": "William Anderson",
+    "email": "william.anderson@example.com",
+    "subject": "Company Picnic Invitation",
+    "day": 6,
+    "month": "August",
+    "overview": "Join us for a fun-filled company picnic next weekend!",
+    "full_mail": "Hello team, It's that time of the year again! We're having our annual company picnic next weekend. Don't miss out on the fun. Regards, William"
+  },
+  {
+    "name": "Ava Wilson",
+    "email": "ava.wilson@example.com",
+    "subject": "Project Deadline Extension",
+    "day": 4,
+    "month": "August",
+    "overview": "Good news! The project deadline has been extended.",
+    "full_mail": "Hi team, I have some good news to share. The project deadline has been extended. Please see the details in the attached document. Regards, Ava"
+  },
+  {
+    "name": "Liam Johnson",
+    "email": "liam.johnson@example.com",
+    "subject": "Vacation Request Approval",
+    "day": 2,
+    "month": "August",
+    "overview": "Your vacation request has been approved.",
+    "full_mail": "Dear [Your Name], I'm pleased to inform you that your vacation request has been approved. Enjoy your time off! Regards, Liam"
+  },
+  {
+    "name": "Emma Davis",
+    "email": "emma.davis@example.com",
+    "subject": "Product Feedback Survey",
+    "day": 31,
+    "month": "July",
+    "overview": "We value your feedback! Please take our product survey.",
+    "full_mail": "Hi there, We value your feedback and would appreciate it if you could take a few minutes to complete our product survey. Regards, Emma"
+  },
+  {
+    "name": "Noah Rodriguez",
+    "email": "noah.rodriguez@example.com",
+    "subject": "Monthly Sales Report",
+    "day": 29,
+    "month": "July",
+    "overview": "Here's the monthly sales report for your review.",
+    "full_mail": "Hello team, I've prepared the monthly sales report for your review. Please find it attached. Regards, Noah"
   }
 ]

@@ -30,6 +30,8 @@ class MyMailAppCubit extends Cubit<MyMailAppState> {
       myMails.add(MailModel(
           name: item['name'],
           email: item['email'],
+          day: item['day'],
+          month: item['month'],
           subject: item['subject'],
           overview: item['overview'],
           fullMail: item['full_mail'],

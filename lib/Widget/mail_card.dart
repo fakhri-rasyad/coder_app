@@ -30,13 +30,23 @@ class MailCard extends StatelessWidget {
               mainAxisAlignment: MainAxisAlignment.center,
               crossAxisAlignment: CrossAxisAlignment.start,
               children: [
-                Text(
-                  theMail.name,
-                  style: const TextStyle(
-                      fontSize: 16, fontWeight: FontWeight.bold),
+                Row(
+                  mainAxisAlignment: MainAxisAlignment.spaceBetween,
+                  children: [
+                    Text(
+                      theMail.name,
+                      style: const TextStyle(
+                          fontSize: 16, fontWeight: FontWeight.bold),
+                    ),
+                    Text('${theMail.day} ${theMail.month}')
+                  ],
+                ),
+                SizedBox(
+                  height: 4,
                 ),
                 Text(
                   theMail.overview,
+                  style: TextStyle(color: Color(0xaaFFFFFF)),
                 )
               ],
             ),

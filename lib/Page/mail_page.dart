@@ -59,7 +59,9 @@ class MyMailInfoPage extends StatelessWidget {
                     ),
                     const SizedBox(
                       height: 24,
-                      child: Divider(),
+                      child: Divider(
+                        color: Colors.grey,
+                      ),
                     ),
                     Text(theModel.fullMail)
                   ],
